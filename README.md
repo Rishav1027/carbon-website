@@ -1,4 +1,5 @@
 # Carbon Design System
+# Wellcome to open-source design system for products and digital experiences
 
 ![Deployment status](https://github.com/carbon-design-system/carbon-website/workflows/Deployment%20status/badge.svg)
 
@@ -18,6 +19,7 @@ src
 ```
 
 ## 👩‍💻 Develop
+# Develop the experiences for the new world
 
 - 🤝 [Contribution guidelines](.github/CONTRIBUTING.md)
 - 📚 [Content and Markdown guidelines](https://gatsby-theme-carbon.now.sh/components/markdown)
@@ -32,6 +34,7 @@ src
 If you need more detailed information on how to setup your machine to develop locally, please take a look at our [wiki](https://github.com/carbon-design-system/carbon-website/wiki).
 
 ## 🚀 Build
+# Building the world
 
 Runing the build command generates all the files and places them in the `public` folder.
 
